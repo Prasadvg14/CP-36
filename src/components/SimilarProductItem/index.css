@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.item {
+  height: 40vh;
+  width: 20vw;
+  font-family: roboto;
+  margin-right: 10px;
+}
+.i-img {
+  height: 35vh;
+  width: 14vw;
+  border-radius: 10px;
+  flex-grow: inherit;
+}
+.price {
+  display: flex;
+  justify-content: space-between;
+  width: 13vw;
+}
